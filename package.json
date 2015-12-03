@@ -13,7 +13,9 @@
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0",
-    "request"    : "latest",
-    "cheerio"    : "latest"
+    "request": "latest",
+    "cheerio": "latest",
+    "htmltidy": "0.0.6",
+    "js-beautify": "^1.5.10"
   }
 }
